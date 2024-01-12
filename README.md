@@ -138,6 +138,7 @@ Probable Solution:
 
 2) Design own AAC app with cheaper subscription
 
+   
 Related links:
 
 Slack Channel: https://join.slack.com/t/newworkspace-ogp7008/shared_invite/zt-2a9i0upf9-Bre0nrl44ppLrCshc8i0Fg
@@ -145,3 +146,20 @@ Slack Channel: https://join.slack.com/t/newworkspace-ogp7008/shared_invite/zt-2a
 Github: 
 
 https://github.com/lookdeepu/TakiwatangaGaiaTechStack/tree/main
+
+## Project Notes
+It is still in Project kick off stage.
+
+If we need to see this applied in real world, we have 4 scenarios
+
+Scenario 1) Among Parents, form as Teams and collaborate and implement the projects (Road-Block: With our busy lives, I don't think so it is practical)
+
+Scenario 2) Collaborate with a Start-up, Parents being consultants and make them Go-LIVE
+
+Scenario 3) Conduct the projects as Hackathon and make Engineering Students/Interns work on them for some cash rewards
+
+Scenario 4) Make the code complete open source and take support from coders across the word, publish it in Github, use crowd funding to implement the projects
+
+Let’s take a simple example, as parents, we all struggle to find a Nanny/Shadow Teacher. Do we have a job portal dedicated only on this service, No.
+
+ Why ? Neurotypicals are more interested to offer sympathy instead of solutions.
